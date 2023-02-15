@@ -1,4 +1,3 @@
 # Telecome-Service
 
-Practical static data belong to time,
-
+Practical static data belong to time, and Neo-telo
