@@ -1,2 +1,4 @@
 # Telecome-Service
-Practice
+
+Practical static data belong to time,
+
